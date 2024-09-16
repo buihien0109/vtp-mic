@@ -9,5 +9,4 @@ public class DemoVtpMicApplication {
     public static void main(String[] args) {
         SpringApplication.run(DemoVtpMicApplication.class, args);
     }
-
 }

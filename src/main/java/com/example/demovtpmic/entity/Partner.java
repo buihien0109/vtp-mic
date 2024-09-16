@@ -19,6 +19,4 @@ public class Partner {
 
     String maDoiTac;
     String tenDoiTac;
-    String partnerKey;
-    String publicKey;
 }
